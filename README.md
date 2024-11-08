@@ -1,1 +1,7 @@
-# data-flow
+module gates (………….);
+input ………;
+output ……..;
+.
+.
+.
+endmodule
